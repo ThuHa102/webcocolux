@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Cosmetic-Web.props" />
+</Project>

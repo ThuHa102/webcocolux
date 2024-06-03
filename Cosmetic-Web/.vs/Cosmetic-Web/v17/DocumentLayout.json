@@ -1,0 +1,554 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\DATN_DangThiThuHa_2020602212\\Cosmetic-Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2607E80A-5BCC-4683-8D63-67DD05ED702C}|Cosmetic-Web.csproj|d:\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\datn_dangthithuha_2020602212\\cosmetic-web\\areas\\admin\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2607E80A-5BCC-4683-8D63-67DD05ED702C}|Cosmetic-Web.csproj|solutionrelative:areas\\admin\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2607E80A-5BCC-4683-8D63-67DD05ED702C}|Cosmetic-Web.csproj|d:\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\datn_dangthithuha_2020602212\\cosmetic-web\\areas\\admin\\views\\revenuereport\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2607E80A-5BCC-4683-8D63-67DD05ED702C}|Cosmetic-Web.csproj|solutionrelative:areas\\admin\\views\\revenuereport\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2607E80A-5BCC-4683-8D63-67DD05ED702C}|Cosmetic-Web.csproj|d:\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\datn_dangthithuha_2020602212\\cosmetic-web\\views\\shared\\_productlistpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2607E80A-5BCC-4683-8D63-67DD05ED702C}|Cosmetic-Web.csproj|solutionrelative:views\\shared\\_productlistpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2607E80A-5BCC-4683-8D63-67DD05ED702C}|Cosmetic-Web.csproj|d:\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\datn_dangthithuha_2020602212\\cosmetic-web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2607E80A-5BCC-4683-8D63-67DD05ED702C}|Cosmetic-Web.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2607E80A-5BCC-4683-8D63-67DD05ED702C}|Cosmetic-Web.csproj|d:\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\datn_dangthithuha_2020602212\\cosmetic-web\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2607E80A-5BCC-4683-8D63-67DD05ED702C}|Cosmetic-Web.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2607E80A-5BCC-4683-8D63-67DD05ED702C}|Cosmetic-Web.csproj|d:\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\datn_dangthithuha_2020602212\\cosmetic-web\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2607E80A-5BCC-4683-8D63-67DD05ED702C}|Cosmetic-Web.csproj|solutionrelative:controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2607E80A-5BCC-4683-8D63-67DD05ED702C}|Cosmetic-Web.csproj|d:\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\datn_dangthithuha_2020602212\\cosmetic-web\\controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2607E80A-5BCC-4683-8D63-67DD05ED702C}|Cosmetic-Web.csproj|solutionrelative:controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2607E80A-5BCC-4683-8D63-67DD05ED702C}|Cosmetic-Web.csproj|d:\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\datn_dangthithuha_2020602212\\cosmetic-web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2607E80A-5BCC-4683-8D63-67DD05ED702C}|Cosmetic-Web.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2607E80A-5BCC-4683-8D63-67DD05ED702C}|Cosmetic-Web.csproj|d:\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\datn_dangthithuha_2020602212\\cosmetic-web\\views\\home\\orderdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2607E80A-5BCC-4683-8D63-67DD05ED702C}|Cosmetic-Web.csproj|solutionrelative:views\\home\\orderdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2607E80A-5BCC-4683-8D63-67DD05ED702C}|Cosmetic-Web.csproj|d:\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\datn_dangthithuha_2020602212\\cosmetic-web\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2607E80A-5BCC-4683-8D63-67DD05ED702C}|Cosmetic-Web.csproj|solutionrelative:views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2607E80A-5BCC-4683-8D63-67DD05ED702C}|Cosmetic-Web.csproj|d:\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\datn_dangthithuha_2020602212\\cosmetic-web\\views\\shared\\_headerpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2607E80A-5BCC-4683-8D63-67DD05ED702C}|Cosmetic-Web.csproj|solutionrelative:views\\shared\\_headerpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2607E80A-5BCC-4683-8D63-67DD05ED702C}|Cosmetic-Web.csproj|d:\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\datn_dangthithuha_2020602212\\cosmetic-web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2607E80A-5BCC-4683-8D63-67DD05ED702C}|Cosmetic-Web.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2607E80A-5BCC-4683-8D63-67DD05ED702C}|Cosmetic-Web.csproj|d:\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\datn_dangthithuha_2020602212\\cosmetic-web\\areas\\admin\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2607E80A-5BCC-4683-8D63-67DD05ED702C}|Cosmetic-Web.csproj|solutionrelative:areas\\admin\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2607E80A-5BCC-4683-8D63-67DD05ED702C}|Cosmetic-Web.csproj|d:\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\datn_dangthithuha_2020602212\\cosmetic-web\\areas\\admin\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2607E80A-5BCC-4683-8D63-67DD05ED702C}|Cosmetic-Web.csproj|solutionrelative:areas\\admin\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2607E80A-5BCC-4683-8D63-67DD05ED702C}|Cosmetic-Web.csproj|d:\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\datn_dangthithuha_2020602212\\cosmetic-web\\areas\\admin\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2607E80A-5BCC-4683-8D63-67DD05ED702C}|Cosmetic-Web.csproj|solutionrelative:areas\\admin\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2607E80A-5BCC-4683-8D63-67DD05ED702C}|Cosmetic-Web.csproj|d:\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\datn_dangthithuha_2020602212\\cosmetic-web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2607E80A-5BCC-4683-8D63-67DD05ED702C}|Cosmetic-Web.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2607E80A-5BCC-4683-8D63-67DD05ED702C}|Cosmetic-Web.csproj|d:\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\datn_dangthithuha_2020602212\\cosmetic-web\\areas\\admin\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2607E80A-5BCC-4683-8D63-67DD05ED702C}|Cosmetic-Web.csproj|solutionrelative:areas\\admin\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2607E80A-5BCC-4683-8D63-67DD05ED702C}|Cosmetic-Web.csproj|d:\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\datn_dangthithuha_2020602212\\cosmetic-web\\areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2607E80A-5BCC-4683-8D63-67DD05ED702C}|Cosmetic-Web.csproj|solutionrelative:areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2607E80A-5BCC-4683-8D63-67DD05ED702C}|Cosmetic-Web.csproj|d:\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\datn_dangthithuha_2020602212\\cosmetic-web\\areas\\admin\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2607E80A-5BCC-4683-8D63-67DD05ED702C}|Cosmetic-Web.csproj|solutionrelative:areas\\admin\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2607E80A-5BCC-4683-8D63-67DD05ED702C}|Cosmetic-Web.csproj|d:\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\datn_dangthithuha_2020602212\\cosmetic-web\\areas\\admin\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2607E80A-5BCC-4683-8D63-67DD05ED702C}|Cosmetic-Web.csproj|solutionrelative:areas\\admin\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2607E80A-5BCC-4683-8D63-67DD05ED702C}|Cosmetic-Web.csproj|d:\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\datn_dangthithuha_2020602212\\cosmetic-web\\areas\\admin\\controllers\\introductionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2607E80A-5BCC-4683-8D63-67DD05ED702C}|Cosmetic-Web.csproj|solutionrelative:areas\\admin\\controllers\\introductionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2607E80A-5BCC-4683-8D63-67DD05ED702C}|Cosmetic-Web.csproj|d:\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\datn_dangthithuha_2020602212\\cosmetic-web\\areas\\admin\\controllers\\couponscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2607E80A-5BCC-4683-8D63-67DD05ED702C}|Cosmetic-Web.csproj|solutionrelative:areas\\admin\\controllers\\couponscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2607E80A-5BCC-4683-8D63-67DD05ED702C}|Cosmetic-Web.csproj|d:\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\datn_dangthithuha_2020602212\\cosmetic-web\\areas\\admin\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2607E80A-5BCC-4683-8D63-67DD05ED702C}|Cosmetic-Web.csproj|solutionrelative:areas\\admin\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2607E80A-5BCC-4683-8D63-67DD05ED702C}|Cosmetic-Web.csproj|d:\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\datn_dangthithuha_2020602212\\cosmetic-web\\areas\\admin\\controllers\\brandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2607E80A-5BCC-4683-8D63-67DD05ED702C}|Cosmetic-Web.csproj|solutionrelative:areas\\admin\\controllers\\brandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2607E80A-5BCC-4683-8D63-67DD05ED702C}|Cosmetic-Web.csproj|d:\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\datn_dangthithuha_2020602212\\cosmetic-web\\areas\\admin\\controllers\\revenuereportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2607E80A-5BCC-4683-8D63-67DD05ED702C}|Cosmetic-Web.csproj|solutionrelative:areas\\admin\\controllers\\revenuereportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2607E80A-5BCC-4683-8D63-67DD05ED702C}|Cosmetic-Web.csproj|d:\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\datn_dangthithuha_2020602212\\cosmetic-web\\views\\checkout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2607E80A-5BCC-4683-8D63-67DD05ED702C}|Cosmetic-Web.csproj|solutionrelative:views\\checkout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2607E80A-5BCC-4683-8D63-67DD05ED702C}|Cosmetic-Web.csproj|d:\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\datn_dangthithuha_2020602212\\cosmetic-web\\views\\home\\detailorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2607E80A-5BCC-4683-8D63-67DD05ED702C}|Cosmetic-Web.csproj|solutionrelative:views\\home\\detailorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2607E80A-5BCC-4683-8D63-67DD05ED702C}|Cosmetic-Web.csproj|d:\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\datn_dangthithuha_2020602212\\cosmetic-web\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2607E80A-5BCC-4683-8D63-67DD05ED702C}|Cosmetic-Web.csproj|solutionrelative:views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2607E80A-5BCC-4683-8D63-67DD05ED702C}|Cosmetic-Web.csproj|d:\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\datn_dangthithuha_2020602212\\cosmetic-web\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2607E80A-5BCC-4683-8D63-67DD05ED702C}|Cosmetic-Web.csproj|solutionrelative:views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2607E80A-5BCC-4683-8D63-67DD05ED702C}|Cosmetic-Web.csproj|d:\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\datn_dangthithuha_2020602212\\cosmetic-web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2607E80A-5BCC-4683-8D63-67DD05ED702C}|Cosmetic-Web.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2607E80A-5BCC-4683-8D63-67DD05ED702C}|Cosmetic-Web.csproj|d:\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\datn_dangthithuha_2020602212\\cosmetic-web\\models\\cartdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2607E80A-5BCC-4683-8D63-67DD05ED702C}|Cosmetic-Web.csproj|solutionrelative:models\\cartdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\DATN_DangThiThuHa_2020602212\\Cosmetic-Web\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\User\\Index.cshtml",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\DATN_DangThiThuHa_2020602212\\Cosmetic-Web\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\User\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB4AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T01:34:39.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\DATN_DangThiThuHa_2020602212\\Cosmetic-Web\\Areas\\Admin\\Views\\RevenueReport\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\RevenueReport\\Index.cshtml",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\DATN_DangThiThuHa_2020602212\\Cosmetic-Web\\Areas\\Admin\\Views\\RevenueReport\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\RevenueReport\\Index.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T01:34:23.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ProductListPartial.cshtml",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\DATN_DangThiThuHa_2020602212\\Cosmetic-Web\\Views\\Shared\\_ProductListPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ProductListPartial.cshtml",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\DATN_DangThiThuHa_2020602212\\Cosmetic-Web\\Views\\Shared\\_ProductListPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ProductListPartial.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAEwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T16:17:58.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderDetails.cshtml",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\DATN_DangThiThuHa_2020602212\\Cosmetic-Web\\Views\\Home\\OrderDetails.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\OrderDetails.cshtml",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\DATN_DangThiThuHa_2020602212\\Cosmetic-Web\\Views\\Home\\OrderDetails.cshtml",
+              "RelativeToolTip": "Views\\Home\\OrderDetails.cshtml",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAGgAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T03:35:25.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\DATN_DangThiThuHa_2020602212\\Cosmetic-Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\DATN_DangThiThuHa_2020602212\\Cosmetic-Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAKsAAAAAAAAAAAAswN4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T12:43:24.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CheckoutController.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\DATN_DangThiThuHa_2020602212\\Cosmetic-Web\\Controllers\\CheckoutController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CheckoutController.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\DATN_DangThiThuHa_2020602212\\Cosmetic-Web\\Controllers\\CheckoutController.cs",
+              "RelativeToolTip": "Controllers\\CheckoutController.cs",
+              "ViewState": "AQIAAOUAAAAAAAAAAAAcwNsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T03:35:42.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\DATN_DangThiThuHa_2020602212\\Cosmetic-Web\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CartController.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\DATN_DangThiThuHa_2020602212\\Cosmetic-Web\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Controllers\\CartController.cs",
+              "ViewState": "AQIAAMcAAAAAAAAAAAAcwEsAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T12:43:16.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\DATN_DangThiThuHa_2020602212\\Cosmetic-Web\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\DATN_DangThiThuHa_2020602212\\Cosmetic-Web\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgBAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T13:29:56.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\DATN_DangThiThuHa_2020602212\\Cosmetic-Web\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Details.cshtml",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\DATN_DangThiThuHa_2020602212\\Cosmetic-Web\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "Views\\Home\\Details.cshtml",
+              "ViewState": "AQIAAOoAAAAAAAAAAAAAAOgAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T03:04:55.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\DATN_DangThiThuHa_2020602212\\Cosmetic-Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\DATN_DangThiThuHa_2020602212\\Cosmetic-Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAO0AAAAAAAAAAAAAAP0AAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T03:17:32.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IntroductionsController.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\DATN_DangThiThuHa_2020602212\\Cosmetic-Web\\Areas\\Admin\\Controllers\\IntroductionsController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\IntroductionsController.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\DATN_DangThiThuHa_2020602212\\Cosmetic-Web\\Areas\\Admin\\Controllers\\IntroductionsController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\IntroductionsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T15:31:53.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\DATN_DangThiThuHa_2020602212\\Cosmetic-Web\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\DATN_DangThiThuHa_2020602212\\Cosmetic-Web\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T15:27:34.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_HeaderPartial.cshtml",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\DATN_DangThiThuHa_2020602212\\Cosmetic-Web\\Views\\Shared\\_HeaderPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_HeaderPartial.cshtml",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\DATN_DangThiThuHa_2020602212\\Cosmetic-Web\\Views\\Shared\\_HeaderPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_HeaderPartial.cshtml",
+              "ViewState": "AQIAALcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T16:20:03.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\DATN_DangThiThuHa_2020602212\\Cosmetic-Web\\Areas\\Admin\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\DATN_DangThiThuHa_2020602212\\Cosmetic-Web\\Areas\\Admin\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T15:32:26.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\DATN_DangThiThuHa_2020602212\\Cosmetic-Web\\Areas\\Admin\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\RoleController.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\DATN_DangThiThuHa_2020602212\\Cosmetic-Web\\Areas\\Admin\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\RoleController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAwwDYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T15:29:27.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\DATN_DangThiThuHa_2020602212\\Cosmetic-Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\DATN_DangThiThuHa_2020602212\\Cosmetic-Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T03:16:10.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CommentsController.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\DATN_DangThiThuHa_2020602212\\Cosmetic-Web\\Areas\\Admin\\Controllers\\CommentsController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\CommentsController.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\DATN_DangThiThuHa_2020602212\\Cosmetic-Web\\Areas\\Admin\\Controllers\\CommentsController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\CommentsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T15:31:35.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\DATN_DangThiThuHa_2020602212\\Cosmetic-Web\\Areas\\Admin\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\DATN_DangThiThuHa_2020602212\\Cosmetic-Web\\Areas\\Admin\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T15:31:13.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ReportController.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\DATN_DangThiThuHa_2020602212\\Cosmetic-Web\\Areas\\Admin\\Controllers\\ReportController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\ReportController.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\DATN_DangThiThuHa_2020602212\\Cosmetic-Web\\Areas\\Admin\\Controllers\\ReportController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\ReportController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T15:31:07.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "NewsController.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\DATN_DangThiThuHa_2020602212\\Cosmetic-Web\\Areas\\Admin\\Controllers\\NewsController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\NewsController.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\DATN_DangThiThuHa_2020602212\\Cosmetic-Web\\Areas\\Admin\\Controllers\\NewsController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\NewsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T15:32:18.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\DATN_DangThiThuHa_2020602212\\Cosmetic-Web\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\DATN_DangThiThuHa_2020602212\\Cosmetic-Web\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T15:32:38.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CouponsController.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\DATN_DangThiThuHa_2020602212\\Cosmetic-Web\\Areas\\Admin\\Controllers\\CouponsController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\CouponsController.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\DATN_DangThiThuHa_2020602212\\Cosmetic-Web\\Areas\\Admin\\Controllers\\CouponsController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\CouponsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T15:31:45.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\DATN_DangThiThuHa_2020602212\\Cosmetic-Web\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\DATN_DangThiThuHa_2020602212\\Cosmetic-Web\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T15:31:25.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BrandsController.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\DATN_DangThiThuHa_2020602212\\Cosmetic-Web\\Areas\\Admin\\Controllers\\BrandsController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\BrandsController.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\DATN_DangThiThuHa_2020602212\\Cosmetic-Web\\Areas\\Admin\\Controllers\\BrandsController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\BrandsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T15:31:16.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RevenueReportController.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\DATN_DangThiThuHa_2020602212\\Cosmetic-Web\\Areas\\Admin\\Controllers\\RevenueReportController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\RevenueReportController.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\DATN_DangThiThuHa_2020602212\\Cosmetic-Web\\Areas\\Admin\\Controllers\\RevenueReportController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\RevenueReportController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T15:31:02.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\DATN_DangThiThuHa_2020602212\\Cosmetic-Web\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Contact.cshtml",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\DATN_DangThiThuHa_2020602212\\Cosmetic-Web\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T18:03:13.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DetailOrders.cshtml",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\DATN_DangThiThuHa_2020602212\\Cosmetic-Web\\Views\\Home\\DetailOrders.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\DetailOrders.cshtml",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\DATN_DangThiThuHa_2020602212\\Cosmetic-Web\\Views\\Home\\DetailOrders.cshtml",
+              "RelativeToolTip": "Views\\Home\\DetailOrders.cshtml",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAGQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T13:46:30.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\DATN_DangThiThuHa_2020602212\\Cosmetic-Web\\Views\\Checkout\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Checkout\\Index.cshtml",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\DATN_DangThiThuHa_2020602212\\Cosmetic-Web\\Views\\Checkout\\Index.cshtml",
+              "RelativeToolTip": "Views\\Checkout\\Index.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAEwAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T13:41:03.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CartDetails.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\DATN_DangThiThuHa_2020602212\\Cosmetic-Web\\Models\\CartDetails.cs",
+              "RelativeDocumentMoniker": "Models\\CartDetails.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\DATN_DangThiThuHa_2020602212\\Cosmetic-Web\\Models\\CartDetails.cs",
+              "RelativeToolTip": "Models\\CartDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T12:45:26.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\DATN_DangThiThuHa_2020602212\\Cosmetic-Web\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\DATN_DangThiThuHa_2020602212\\Cosmetic-Web\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T03:17:19.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\DATN_DangThiThuHa_2020602212\\Cosmetic-Web\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cart\\Index.cshtml",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\DATN_DangThiThuHa_2020602212\\Cosmetic-Web\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "Views\\Cart\\Index.cshtml",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAGQAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-11T12:19:32.216Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 61,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

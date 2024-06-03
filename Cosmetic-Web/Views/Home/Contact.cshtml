@@ -1,0 +1,78 @@
+﻿<!-- index -->
+<link rel="stylesheet" type="text/css" href="~/assets/css/contact.css" asp-append-version="true">
+<div class="grid wide" style="margin-top: 115px;">
+    <div class="row">
+        <div class="col l-6 m-12 s-12">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3724.6005326996437!2d105.82358217441657!3d21.008644080635772!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135ad1c553180eb%3A0x50b80a9edd1b4b7b!2sCocolux%20Beauty%20and%20Cosmetic!5e0!3m2!1svi!2s!4v1713617547514!5m2!1svi!2s" 
+            width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </div>
+        <div class="col l-6 m-12 s-12">
+            <div class="contact__wrap">
+                <div class="contact__img">
+                    <img src="http://mauweb.monamedia.net/vanihome/wp-content/uploads/2018/04/logo-mona.png" alt="">
+                </div>
+                <ul class="contact__info">
+                    <li class="contact__text">
+                        <i class="fas fa-map-marked-alt"></i> Trụ sở chính: 80 P.Chùa Bộc, Trung Liệt, Đống Đa, Hà Nội 
+                    </li>
+                    <li>
+                        <a href="tel:" class="contact__link">
+                            <i class="fas fa-phone"></i>
+                        </a>
+                        <a href="#" class="contact__link">
+                            0123 456 789
+                        </a>
+                    </li>
+
+                    <li>
+                        <a href="mailto:dangthuha01072k2@gmail.com" class="contact__link">
+                            <i class="fas fa-envelope"></i> DangThuHa@gmail.com
+                        </a>
+                    </li>
+                </ul>
+            </div>
+            <div class="about-us">
+                <div class="about-us__heading">Liên hệ với chúng tôi</div>
+                <form id="emailForm">
+                    <div class="form__group">
+                        <div>
+                            <input type="text" name="name" placeholder="Họ và tên">
+                        </div>
+                        <div>
+                            <input type="email" name="email" placeholder="Email">
+                        </div>
+                        <div>
+                            <input type="text" name="address" placeholder="Địa chỉ">
+                        </div>
+                        <div>
+                            <input type="tel" name="phone" placeholder="Số điện thoại">
+                        </div>
+                    </div>
+                    <textarea name="message" id="" cols="30" rows="5" placeholder="Lời nhắn"></textarea>
+                    <button type="button" class="btn btn--default" onclick="sendEmail()">Gửi</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+    function sendEmail() {
+        var form = document.getElementById("emailForm");
+        var name = form.elements["name"].value;
+        var email = form.elements["email"].value;
+        var address = form.elements["address"].value;
+        var phone = form.elements["phone"].value;
+        var message = form.elements["message"].value;
+
+        var subject = "Thông tin liên hệ từ " + name;
+        var body = "Họ và tên: " + name + "\n"
+            + "Email: " + email + "\n"
+            + "Địa chỉ: " + address + "\n"
+            + "Số điện thoại: " + phone + "\n"
+            + "Lời nhắn: " + message;
+
+        var mailtoLink = "mailto:dangthuha01072k2@gmail.com" + "?subject=" + encodeURIComponent(subject) + "&body=" + encodeURIComponent(body);
+
+        window.location.href = mailtoLink;
+    }
+</script>
